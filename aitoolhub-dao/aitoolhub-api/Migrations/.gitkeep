@@ -1,3 +1,0 @@
-# EF Core migrations are auto-generated.
-# Run: dotnet ef migrations add InitialCreate
-#      dotnet ef database update
